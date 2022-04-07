@@ -1,0 +1,23 @@
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\shared\bin\Debug\net5.0\shared.deps.json
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\shared\bin\Debug\net5.0\shared.dll
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\shared\bin\Debug\net5.0\ref\shared.dll
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\shared\bin\Debug\net5.0\shared.pdb
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\shared\obj\Debug\net5.0\shared.csproj.AssemblyReference.cache
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\shared\obj\Debug\net5.0\shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\shared\obj\Debug\net5.0\shared.AssemblyInfoInputs.cache
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\shared\obj\Debug\net5.0\shared.AssemblyInfo.cs
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\shared\obj\Debug\net5.0\shared.csproj.CoreCompileInputs.cache
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\shared\obj\Debug\net5.0\shared.dll
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\shared\obj\Debug\net5.0\ref\shared.dll
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\shared\obj\Debug\net5.0\shared.pdb
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\shared\bin\Debug\net5.0\shared.deps.json
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\shared\bin\Debug\net5.0\shared.dll
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\shared\bin\Debug\net5.0\ref\shared.dll
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\shared\bin\Debug\net5.0\shared.pdb
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\shared\obj\Debug\net5.0\shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\shared\obj\Debug\net5.0\shared.AssemblyInfoInputs.cache
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\shared\obj\Debug\net5.0\shared.AssemblyInfo.cs
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\shared\obj\Debug\net5.0\shared.csproj.CoreCompileInputs.cache
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\shared\obj\Debug\net5.0\shared.dll
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\shared\obj\Debug\net5.0\ref\shared.dll
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\shared\obj\Debug\net5.0\shared.pdb

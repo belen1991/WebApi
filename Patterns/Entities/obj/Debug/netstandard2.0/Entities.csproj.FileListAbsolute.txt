@@ -1,0 +1,9 @@
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\Entities\bin\Debug\netstandard2.0\Entities.dll
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\Entities\bin\Debug\netstandard2.0\Entities.pdb
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\Entities\obj\Debug\netstandard2.0\Entities.csproj.AssemblyReference.cache
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\Entities\obj\Debug\netstandard2.0\Entities.dll
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\Entities\obj\Debug\netstandard2.0\Entities.pdb

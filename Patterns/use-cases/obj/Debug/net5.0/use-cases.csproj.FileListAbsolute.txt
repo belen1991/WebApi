@@ -1,0 +1,30 @@
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\use-cases\bin\Debug\net5.0\use-cases.deps.json
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\use-cases\bin\Debug\net5.0\use-cases.dll
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\use-cases\bin\Debug\net5.0\ref\use-cases.dll
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\use-cases\bin\Debug\net5.0\use-cases.pdb
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\use-cases\bin\Debug\net5.0\shared.dll
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\use-cases\bin\Debug\net5.0\shared.pdb
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\use-cases\obj\Debug\net5.0\use-cases.csproj.AssemblyReference.cache
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\use-cases\obj\Debug\net5.0\use-cases.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\use-cases\obj\Debug\net5.0\use-cases.AssemblyInfoInputs.cache
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\use-cases\obj\Debug\net5.0\use-cases.AssemblyInfo.cs
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\use-cases\obj\Debug\net5.0\use-cases.csproj.CoreCompileInputs.cache
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\use-cases\obj\Debug\net5.0\use-cases.csproj.CopyComplete
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\use-cases\obj\Debug\net5.0\use-cases.dll
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\use-cases\obj\Debug\net5.0\ref\use-cases.dll
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\use-cases\obj\Debug\net5.0\use-cases.pdb
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\use-cases\bin\Debug\net5.0\use-cases.deps.json
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\use-cases\bin\Debug\net5.0\use-cases.dll
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\use-cases\bin\Debug\net5.0\ref\use-cases.dll
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\use-cases\bin\Debug\net5.0\use-cases.pdb
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\use-cases\bin\Debug\net5.0\shared.dll
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\use-cases\bin\Debug\net5.0\shared.pdb
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\use-cases\obj\Debug\net5.0\use-cases.csproj.AssemblyReference.cache
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\use-cases\obj\Debug\net5.0\use-cases.GeneratedMSBuildEditorConfig.editorconfig
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\use-cases\obj\Debug\net5.0\use-cases.AssemblyInfoInputs.cache
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\use-cases\obj\Debug\net5.0\use-cases.AssemblyInfo.cs
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\use-cases\obj\Debug\net5.0\use-cases.csproj.CoreCompileInputs.cache
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\use-cases\obj\Debug\net5.0\use-cases.csproj.CopyComplete
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\use-cases\obj\Debug\net5.0\use-cases.dll
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\use-cases\obj\Debug\net5.0\ref\use-cases.dll
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\use-cases\obj\Debug\net5.0\use-cases.pdb

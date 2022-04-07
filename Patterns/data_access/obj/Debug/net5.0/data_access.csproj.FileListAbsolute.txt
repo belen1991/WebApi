@@ -1,0 +1,34 @@
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\data_access\obj\Debug\net5.0\data_access.csproj.AssemblyReference.cache
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\data_access\obj\Debug\net5.0\data_access.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\data_access\obj\Debug\net5.0\data_access.AssemblyInfoInputs.cache
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\data_access\obj\Debug\net5.0\data_access.AssemblyInfo.cs
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\data_access\obj\Debug\net5.0\data_access.csproj.CoreCompileInputs.cache
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\data_access\bin\Debug\net5.0\DataAccess.deps.json
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\data_access\bin\Debug\net5.0\DataAccess.dll
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\data_access\bin\Debug\net5.0\ref\DataAccess.dll
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\data_access\bin\Debug\net5.0\DataAccess.pdb
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\data_access\bin\Debug\net5.0\shared.dll
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\data_access\bin\Debug\net5.0\use-cases.dll
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\data_access\bin\Debug\net5.0\shared.pdb
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\data_access\bin\Debug\net5.0\use-cases.pdb
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\data_access\obj\Debug\net5.0\data_access.csproj.CopyComplete
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\data_access\obj\Debug\net5.0\DataAccess.dll
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\data_access\obj\Debug\net5.0\ref\DataAccess.dll
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\data_access\obj\Debug\net5.0\DataAccess.pdb
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\data_access\obj\Debug\net5.0\data_access.csproj.AssemblyReference.cache
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\data_access\obj\Debug\net5.0\data_access.GeneratedMSBuildEditorConfig.editorconfig
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\data_access\obj\Debug\net5.0\data_access.AssemblyInfoInputs.cache
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\data_access\obj\Debug\net5.0\data_access.AssemblyInfo.cs
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\data_access\obj\Debug\net5.0\data_access.csproj.CoreCompileInputs.cache
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\data_access\bin\Debug\net5.0\DataAccess.deps.json
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\data_access\bin\Debug\net5.0\DataAccess.dll
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\data_access\bin\Debug\net5.0\ref\DataAccess.dll
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\data_access\bin\Debug\net5.0\DataAccess.pdb
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\data_access\bin\Debug\net5.0\shared.dll
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\data_access\bin\Debug\net5.0\use-cases.dll
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\data_access\bin\Debug\net5.0\shared.pdb
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\data_access\bin\Debug\net5.0\use-cases.pdb
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\data_access\obj\Debug\net5.0\data_access.csproj.CopyComplete
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\data_access\obj\Debug\net5.0\DataAccess.dll
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\data_access\obj\Debug\net5.0\ref\DataAccess.dll
+D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\data_access\obj\Debug\net5.0\DataAccess.pdb

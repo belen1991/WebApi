@@ -1,0 +1,12 @@
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.AssemblyReference.cache
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+D:\Downloads\RepositoryUnitOfWorkNetCore3-master\RepositoryUnitOfWorkNetCore3-master\Patterns\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
