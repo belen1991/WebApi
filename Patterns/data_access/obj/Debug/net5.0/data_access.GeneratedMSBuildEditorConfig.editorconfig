@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = DataAccess
-build_property.ProjectDir = D:\Google Drive\Desktop\Api Project BARIZAGA\Patterns\data_access\
+build_property.ProjectDir = d:\Google Drive\Documents\Belen\Api Project BARIZAGA\ApiNetCore\WebApi\Patterns\data_access\

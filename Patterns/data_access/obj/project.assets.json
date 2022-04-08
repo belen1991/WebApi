@@ -5624,11 +5624,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Google Drive\\Desktop\\Api Project BARIZAGA\\Patterns\\data_access\\data_access.csproj",
+      "projectUniqueName": "D:\\Google Drive\\Documents\\Belen\\Api Project BARIZAGA\\ApiNetCore\\WebApi\\Patterns\\data_access\\data_access.csproj",
       "projectName": "DataAccess",
-      "projectPath": "D:\\Google Drive\\Desktop\\Api Project BARIZAGA\\Patterns\\data_access\\data_access.csproj",
+      "projectPath": "D:\\Google Drive\\Documents\\Belen\\Api Project BARIZAGA\\ApiNetCore\\WebApi\\Patterns\\data_access\\data_access.csproj",
       "packagesPath": "C:\\Users\\belen.arizaga\\.nuget\\packages\\",
-      "outputPath": "D:\\Google Drive\\Desktop\\Api Project BARIZAGA\\Patterns\\data_access\\obj\\",
+      "outputPath": "D:\\Google Drive\\Documents\\Belen\\Api Project BARIZAGA\\ApiNetCore\\WebApi\\Patterns\\data_access\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -5650,11 +5650,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Google Drive\\Desktop\\Api Project BARIZAGA\\Patterns\\shared\\shared.csproj": {
-              "projectPath": "D:\\Google Drive\\Desktop\\Api Project BARIZAGA\\Patterns\\shared\\shared.csproj"
+            "D:\\Google Drive\\Documents\\Belen\\Api Project BARIZAGA\\ApiNetCore\\WebApi\\Patterns\\shared\\shared.csproj": {
+              "projectPath": "D:\\Google Drive\\Documents\\Belen\\Api Project BARIZAGA\\ApiNetCore\\WebApi\\Patterns\\shared\\shared.csproj"
             },
-            "D:\\Google Drive\\Desktop\\Api Project BARIZAGA\\Patterns\\use-cases\\use-cases.csproj": {
-              "projectPath": "D:\\Google Drive\\Desktop\\Api Project BARIZAGA\\Patterns\\use-cases\\use-cases.csproj"
+            "D:\\Google Drive\\Documents\\Belen\\Api Project BARIZAGA\\ApiNetCore\\WebApi\\Patterns\\use-cases\\use-cases.csproj": {
+              "projectPath": "D:\\Google Drive\\Documents\\Belen\\Api Project BARIZAGA\\ApiNetCore\\WebApi\\Patterns\\use-cases\\use-cases.csproj"
             }
           }
         }

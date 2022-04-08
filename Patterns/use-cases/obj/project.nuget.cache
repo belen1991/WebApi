@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xi/ljaD9UdEYLSBZeq6gvnok+6ql3TiBgqttv8NrMTBdtIaA2pkXpwo8ERMlPtC3LCgfuyFqdax7mSmpW7hA6Q==",
+  "dgSpecHash": "XwguCqpEAo7QxbsqofMD2gG6dyu2Rrk4iiR7B3aUcOZM/qWJ7D6AQ7u5OgeZTIqNY/lZlUSwqeHi6cmZmf02uQ==",
   "success": true,
-  "projectFilePath": "D:\\Google Drive\\Desktop\\Api Project BARIZAGA\\Patterns\\use-cases\\use-cases.csproj",
+  "projectFilePath": "D:\\Google Drive\\Documents\\Belen\\Api Project BARIZAGA\\ApiNetCore\\WebApi\\Patterns\\use-cases\\use-cases.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\belen.arizaga\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\belen.arizaga\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

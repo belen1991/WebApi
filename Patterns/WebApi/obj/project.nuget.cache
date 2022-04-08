@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GmIw4Wpw5r/xuY+fHJwb5Yx+V7vHe/42P5kr80MEl44oB19UeEVZw8JHc8HqiDL472RV1BhaPQmsA3pOfSmf7g==",
+  "dgSpecHash": "qrH68WNqmje4NEBi6HKdBzyZaxrv1hqsr58vHD74k4m8wullJtD2kbqsbde7C62EO5/EU7q+wUYpcHd2DpUa4Q==",
   "success": true,
-  "projectFilePath": "D:\\Google Drive\\Desktop\\Api Project BARIZAGA\\Patterns\\WebApi\\WebApi.csproj",
+  "projectFilePath": "D:\\Google Drive\\Documents\\Belen\\Api Project BARIZAGA\\ApiNetCore\\WebApi\\Patterns\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\belen.arizaga\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\belen.arizaga\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
