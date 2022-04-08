@@ -23,7 +23,7 @@ namespace WebApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            //Configuración de Sql Server en memoria
+            //ConfiguraciÃ³n de Sql Server en memoria
             //services.AddDbContext<WebApiDbContext>(options => options.UseInMemoryDatabase(databaseName: "Patterns_DB"));
             services.AddDbContext<WebApiDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("masterDb")));
             services.AddSwaggerGen();
@@ -32,14 +32,14 @@ namespace WebApi
             //Adds singleton, trasient or scoped types implemented     
             services.AddServicesOfAllTypes();
 
-            // Inyección de los servicios
+            // InyecciÃ³n de los servicios
             IoC.AddDependency(services);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            if (env.IsDevelopment())
+            if (env.IsDevelopment() || env.IsProduction())
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
