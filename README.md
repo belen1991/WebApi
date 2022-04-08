@@ -14,7 +14,7 @@
        * data_access
        * shared
        * use-cases
-       docker-compose.yml (for build and run all images)
+       * docker-compose.yml (for build and run all images)
        
 # Requeriments
     * install docker deskopt
