@@ -26,4 +26,4 @@ RUN dotnet publish ./WebApi/WebApi.csproj -c release -o /app
 FROM mcr.microsoft.com/dotnet/aspnet:5.0
 WORKDIR /api
 COPY --from=build /app .
-ENTRYPOINT [ "dotnet","dockerApi.dll" ]
+ENTRYPOINT [ "dotnet","WebApi.dll" ]
