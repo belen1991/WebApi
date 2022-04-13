@@ -18,7 +18,7 @@
        * docker-compose.yml (for build and run all images)
        
 # Requeriments
-    * install docker deskopt
+    * install docker desktop
 
     * install docker compose
     
