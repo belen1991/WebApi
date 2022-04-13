@@ -15,7 +15,7 @@ services:
     container_name: wep_api
     build:
         context: .
-        dockerfile: ./ApiRest/Dockerfile      
+        dockerfile: ./WebApi/Dockerfile      
     ports:
       - "9090:80"
     volumes:
